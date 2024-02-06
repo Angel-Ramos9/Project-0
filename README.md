@@ -1,0 +1,4 @@
+- My Name is Angel Ramos
+- Project 0 Repo Link: https://github.com/Angel-Ramos9/Project-0
+- Project 0 Screencast Video: https://youtu.be/eVuyhZBZujI
+- Screencast/IDE Info : OBS 30.0.02 - Eclipse IDE
